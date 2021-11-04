@@ -10,6 +10,7 @@ class Test {
 
     Test(String nama) {
         name = nama;
+        System.out.println("test");
     }
 
     String moveLeft() {
