@@ -4,5 +4,6 @@ public class App {
 
         System.out.println(hero1.moveForward());
         System.out.println(hero1.moveBackward());
+        System.out.println("test git add");
     }
 }
